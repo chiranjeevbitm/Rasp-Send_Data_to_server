@@ -46,9 +46,9 @@ Server address and port address might change according to uses.
     
   For learning How to configure Client and Server read--
 
-  		1.https://pymotw.com/2/socket/udp.html
+   1.https://pymotw.com/2/socket/udp.html
 
-  		2.https://tutorialedge.net/python/udp-client-server-python/
+   2.https://tutorialedge.net/python/udp-client-server-python/
 
 
 
