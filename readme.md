@@ -8,12 +8,12 @@
 
 
 ## 1.A network of Temperature and humidity sensor connected with Raspberry Pi
-`		
- 	Requirements
-	`	DHT Sensor
-		4.7K ohm resistor 
-		Jumper wires
-		Raspberry Pi 
+
+Requirements
+        DHT Sensor
+        4.7K ohm resistor 
+	Jumper wires
+	Raspberry Pi 
 			
 
 ## 2.Read data from the sensor
