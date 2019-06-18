@@ -1,0 +1,5 @@
+IOT project which includes reading data from the DHT22 sensor and client and server program where client side is the raspberry pi and server side is the Laptop , so raspberry pi send data when Iot_client.py is being run and when we run Iot_server.py on laptop it plots the live temperature and humidity data using matplotlib and also saves the data to the Datalog.txt file.
+
+If any doubts, feel free to ask 
+
+contact me - chiranjeevkumar47@gmial.com
