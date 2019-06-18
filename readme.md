@@ -9,28 +9,21 @@
 
 ## 1.A network of Temperature and humidity sensor connected with Raspberry Pi
 `		
- 		 Requirements
-			DHT Sensor
-			4.7K ohm resistor 
-			Jumper wires
-			Raspberry Pi 
+ 	Requirements
+	`	DHT Sensor
+		4.7K ohm resistor 
+		Jumper wires
+		Raspberry Pi 
 			
 
 ## 2.Read data from the sensor
-
-		Used the Adafruit library for DHT22 sensor to read the sensor data
- 	 	  main.py (python program which reads the Temperature and humidity from sensor)
-		  for more goto-
-
-		  https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-
-
-
-`		
- 		 
+Used the Adafruit library for DHT22 sensor to read the sensor data
+main.py (python program which reads the Temperature and humidity from sensor)
+for more goto-
+https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling-System-
 
 ## 3.Sending Data to a Server
-    
-    	 Steps---
+    Steps---
 
           Sending data to server using socket programming 
           Create a client and server 
