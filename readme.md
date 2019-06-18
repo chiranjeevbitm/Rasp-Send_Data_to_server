@@ -1,8 +1,12 @@
 ## Remote Data Logging
 	 Overview:
+	 
 	 1.A network of Temperature and humidity sensor connected with Raspberry Pi
+	 
 	 2.Read data from the sensor
+	 
 	 3.Send it to a Server
+	 
 	 4.Save the data in the server and Plot the data
 
 
@@ -30,13 +34,18 @@ https://github.com/chiranjeevbitm/IOT-project-Temperature-Dependent-Auto-Cooling
     Steps---
 
           Sending data to server using socket programming 
-          Create a client and server 
-          Establish connection between the two
-          Send data from the client to the server
-          Save the data in a file
+          
+	  Create a client and server 
+          
+	  Establish connection between the two
+          
+	  Send data from the client to the server
+          
+	  Save the data in a file
 
-         Here we write python program for the client and server
-         Here I have used raspian OS on Raspberry pi as the client side and 
+         python program for the client and server
+         
+	 Here I have used raspian OS on Raspberry pi as the client side and 
          My own laptop as the server(program is being ran on anaconda)
          As I run the Iot_client.py on the raspberry pi it starts sending the data to the server(Laptop in my case)
 
